@@ -1,0 +1,3 @@
+mango, papaya
+carrot, banana
+orange, lemon
